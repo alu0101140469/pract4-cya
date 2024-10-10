@@ -1,0 +1,15 @@
+VARIABLES:
+[Line 12] INT: factorial (initialized)
+[Line 21] INT: number (uninitialized)
+
+LOOPS:
+[Line 13] LOOP: for
+
+MAIN:
+True
+
+COMMENTS:
+[Line 1] DESCRIPTION: Start of multi-line comment
+[Line 6] End of multi-line comment
+[Line 10] // Función que calcula el factorial de un número
+[Line 24] // Calcular y mostrar el factorial
